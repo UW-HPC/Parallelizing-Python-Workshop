@@ -6,7 +6,7 @@ If you don’t have a code to work on, here are two parallel programs you might 
 
 ## Parallel PI
 
-Picture the unit circle (radius = 1, centered on zero) inside the unit square.  The area of the circle divided by the area of the square is (&pi; r2) / (2 r)2 = &pi; / 4.0.  A random (x, y) point, -1 < x < 1, -1 < y < 1, must fall within the square.  The probability that it also falls within the circle is proportional to the area of the circle.  Thus, if I generate X random points, the number of points that fall within the circle divided by the total number of points approaches &pi; / 4.0 as X approaches infinity. That is,
+Picture the unit circle (radius = 1, centered on zero) inside the unit square.  The area of the circle divided by the area of the square is (&pi; r<sup>2</sup>) / (2 r)<sup>2</sup> = &pi; / 4.0.  A random (x, y) point, -1 < x < 1, -1 < y < 1, must fall within the square.  The probability that it also falls within the circle is proportional to the area of the circle.  Thus, if I generate X random points, the number of points that fall within the circle divided by the total number of points approaches &pi; / 4.0 as X approaches infinity. That is,
 
 &pi; = 4.0 * (number of circle points / X)
 
