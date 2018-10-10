@@ -19,9 +19,7 @@ Let G be a graph of vertices and directed edges.  Given a start vertex S, return
 
 The most straightforward parallel implementation of BFS is the horizon method that keeps two lists: old and new.  Choose a start vertex, say vertex 0, and append it to old.  Now enter an iterative loop with the guard
 
-	```
-    while len(old) != 0:
-    ```
+	`while len(old) != 0:`
 
 In the body of the loop, for each vertex v in old, examine the neighbors of v.  Append each unvisited neighbor to new.  At the bottom of the while loop, swap new and old. [How can you guarantee that you visit each vertex only once?]
 
