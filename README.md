@@ -2,7 +2,7 @@
 
 In this workshop, we will cover 
 
-*Day 1*
+**Day 1**
 
 |Session| Time|
 |--- | ---|
@@ -15,7 +15,7 @@ In this workshop, we will cover
 |Break	|2:30 - 2:45|
 |Accelerating Python with GPUs - Lab|	2:45 - 4:00|
 
-*Day 2*
+**Day 2**
 
 |Session| Time|
 |--- | ---|
@@ -25,7 +25,7 @@ In this workshop, we will cover
 |Lunch |12:00 - 1:00|
 |Parallelizing a Serial Code| 1:00 - 2:30|
 |Break |2:30 - 2:45|
-|Lab |2:45 - 3:45|
+|Parallelizing a Serial Code - Lab |2:45 - 3:45|
 |Closing Ceremonies |3:45 - 4:00|
 
 
