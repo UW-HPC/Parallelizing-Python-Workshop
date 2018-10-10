@@ -2,6 +2,8 @@
 
 In this workshop, we will cover 
 
+*Day 1*
+
 |Session| Time|
 |--- | ---|
 |Welcome/Intro (Coffee)|9:00 - 9:15|
@@ -13,7 +15,8 @@ In this workshop, we will cover
 |Break	|2:30 - 2:45|
 |Accelerating Python with GPUs - Lab|	2:45 - 4:00|
 
-Day 2
+*Day 2*
+
 |Session| Time|
 |--- | ---|
 |Multiprocessing in Python |9:15 - 10:30|
