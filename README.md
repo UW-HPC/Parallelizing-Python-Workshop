@@ -46,11 +46,13 @@ In this workshop, we will cover general parallelization schemes and how they can
 ## About the Instructors
 
 ### John Feo
-Dr. John Feo is the director of the Northwest Institute for Advanced Computing, a joint research institute of the Pacific Northwest National Laboratory and University of Washington. He leads several large Department of Defense and Department of Energy research projects in discovering patterns of activities in social networks, cyber systems, critical infrastructures, and transportation.
+<div>
+    <p style="float: left;"><img scr=http://escience.washington.edu/wp-content/uploads/2018/07/Feo_John-2.jpg></p>
+    <p>Dr. John Feo is the director of the Northwest Institute for Advanced Computing, a joint research institute of the Pacific Northwest National Laboratory and University of Washington. He leads several large Department of Defense and Department of Energy research projects in discovering patterns of activities in social networks, cyber systems, critical infrastructures, and transportation.
 
 The projects are developing scalable data analytic methods, and high-performance, multithreaded runtime systems for conventional and emerging computer systems. Dr. Feo received his Ph.D. in computer science from The University of Texas at Austin. He began his career at Lawrence Livermore National Laboratory where he managed the Computer Science Group and was the principal investigator of the Sisal Language Project.
 
-Dr. Feo then joined Tera Computer Company (now Cray Inc) where he was a principal engineer and product manager for the MTA-1 and MTA-2, the first two generations of the Cray’s multithreaded architecture. He has taken short sabbaticals to work at Sun Microsystem, Microsoft, and Context Relevant.
+Dr. Feo then joined Tera Computer Company (now Cray Inc) where he was a principal engineer and product manager for the MTA-1 and MTA-2, the first two generations of the Cray’s multithreaded architecture. He has taken short sabbaticals to work at Sun Microsystem, Microsoft, and Context Relevant.</p>
 
 ### Andrew Lumsdaine
 Andrew Lumsdaine is an internationally recognized expert in the area of high-performance computing (HPC) who has made important contributions in many of the constitutive areas of HPC. In particular, he has contributed in the areas of HPC systems, programming languages, software libraries, and performance modeling.
