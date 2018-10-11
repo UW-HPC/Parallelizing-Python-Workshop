@@ -1,6 +1,6 @@
 # Parallelizing Python: Transitioning Beyond One Core
 
-In this workshop, we will cover general parallelization schemes and how they can be implemented in Python. The instructors, Dr. John Feo and Prof. Andrew Lumsdaine, are associated with the [Northwest Institute for Advanced Computing](https://www.niac-uw.org/) and the workshop is being hosted by the [Research Computing Club](http://students.washington.edu/hpcc/).
+In this workshop, we will cover general parallelization schemes and how they can be implemented in Python. The instructors, Dr. John Feo and Prof. Andrew Lumsdaine, are associated with the [Northwest Institute for Advanced Computing](https://www.niac-uw.org/) and the workshop is being hosted by the [Research Computing Club](http://students.washington.edu/hpcc/) at the University of Washington, Seattle.
 
 ## Schedule
 
