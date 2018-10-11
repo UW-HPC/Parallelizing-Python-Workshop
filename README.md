@@ -1,6 +1,8 @@
 # Parallelizing Python: Transitioning Beyond One Core
 
-In this workshop, we will cover 
+In this workshop, we will cover general parallelization schemes and how they can be implemented in Python. The instructors, Dr. John Feo and Prof. Andrew Lumsdaine, are associated with the Northwest Institute for Advanced Computing and the workshop is being hosted by the Research Computing Club.
+
+## Schedule
 
 **Day 1**
 
@@ -41,5 +43,5 @@ In this workshop, we will cover
     - Multiprocessing in Python
 - Lab 4
 
-# License
+## License
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/UW-HPC/Parallelizing-Python-Workshop/blob/master/LICENSE).
