@@ -65,6 +65,12 @@ His work in HPC has been motivated by data-driven problems (large-scale graph an
 Dr. Lumsdaine also has contributed important software artifacts to the research community, especially in the area of Message Passing Interface (MPI). He also is active in a number of standardization efforts with important contributions to the MPI specification, the C++ programming language, and the Graph 500.</p>
 </div>
 
+## Helpers
+- Luke Gibson, Chemical Engineering Ph.D. Student
+- Andrew Wildman, Chemistry Ph.D. Student
+- Sarah Alamdari, Chemical Engineering Ph.D. Student
+- Aakash Sur, Biomedical Informatics and Medical Health Ph.D. Student
+
 ## Acknowledgements
 - **[CEI](https://www.cei.washington.edu/)** and **[DIRECT](http://depts.washington.edu/uwdirect/)**
     - Jim Pfaendtner
