@@ -44,10 +44,10 @@ In this workshop, we will cover general parallelization schemes and how they can
 - Lab 4
 
 ## Acknowledgements
-- **CEI** and **DIRECT**
+- **[CEI](https://www.cei.washington.edu/)** and **[DIRECT](http://depts.washington.edu/uwdirect/)**
     - Jim Pfaendtner
     - Kelly Thornton
-- **eScience Institute**
+- **[eScience Institute](https://escience.washington.edu/)**
     - Robin Brooks
     - Madeleine Stevenson
 
