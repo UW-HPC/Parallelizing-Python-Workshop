@@ -43,5 +43,13 @@ In this workshop, we will cover general parallelization schemes and how they can
     - Multiprocessing in Python
 - Lab 4
 
+## Acknowledgements
+- **CEI** and **DIRECT**
+    - Jim Pfaendtner
+    - Kelly Thornton
+- **eScience Institute**
+    - Robin Brooks
+    - Madeleine Stevenson
+
 ## License
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/UW-HPC/Parallelizing-Python-Workshop/blob/master/LICENSE).
