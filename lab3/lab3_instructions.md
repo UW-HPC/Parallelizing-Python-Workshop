@@ -1,5 +1,7 @@
 # Lab Exercise 3
 
+Please request a node and activate your environment before running the lab exercises. *Do not* run the lab exercises on the head node.
+
 We encourage you to work on improving the sequential or parallel performance of your own code.  Instructors are available to help.  Before calling over an instructor, try to determine where you program spends most of its time or why it is not scaling.
 
 If you don’t have a code to work on, here are two parallel programs you might try writing.  Both use the parallel programming concepts we discussed in lecture.

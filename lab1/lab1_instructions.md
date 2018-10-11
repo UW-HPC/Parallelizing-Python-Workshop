@@ -1,5 +1,7 @@
 # Lab Exercises 1
 
+Please request a node and activate your environment before running the lab exercises. *Do not* run the lab exercises on the head node.
+
 1. Numpy is an optimized numeric Python package.  It stores multi-dimensional, numeric structures in continuous memory and makes use of vector instructions.  Consequently, Numpy statements execute many orders of magnitude faster than equivalent Python statements.
 
 Open the script matmul.py and replace the ellipses (lines 7, 8, 9,  22, 23, 24, and 25) with Python code.
