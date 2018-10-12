@@ -75,9 +75,18 @@ Dr. Lumsdaine also has contributed important software artifacts to the research 
 - **[CEI](https://www.cei.washington.edu/)** and **[DIRECT](http://depts.washington.edu/uwdirect/)**
     - Jim Pfaendtner
     - Kelly Thornton
+- **[UW-IT](https://www.washington.edu/uwit/)**
+    - Nam Pho
 - **[eScience Institute](https://escience.washington.edu/)**
     - Robin Brooks
     - Madeleine Stevenson
+- **[Research Computing Club](http://students.washington.edu/hpcc/)**
+    - Christopher Fu
+    - Andrew Wildman
+    - Sarah Almadari
+    - Aakash Sur
+    - Luke Gibson
+
 
 ## License
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the code used in examples and labs is licensed under the [MIT license](https://github.com/UW-HPC/Parallelizing-Python-Workshop/blob/master/LICENSE).
