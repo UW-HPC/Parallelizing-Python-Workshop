@@ -33,15 +33,20 @@ In this workshop, we will cover general parallelization schemes and how they can
 
 ## Materials
 ### Day 1
-- Lab 1
-    - General Parallelization Techniques
-- Lab 2
-    - Accelerating Python with GPUs
+- General Parallelization Techniques
+    - [Lecture](lectures/ParallelizationFundamentals.pdf)
+    - [Lab](lab1/)
+- Accelerating Python with GPUs
+    - [Lecture](lectures/PythonGPU.pdf)
+    - [Lab](lab2/)
 
 ### Day 2
-- Lab 3
-    - Multiprocessing in Python
-- Lab 4
+- Multiprocessing in Python
+    - [Lecture](lectures/Multiprocessor_Python.pdf)
+    - [Lab](lab3/)
+- Parallelizing a Serial Code
+    - [Lecture]()
+    - [Lab](lab4/)
 
 ## About the Instructors
 
