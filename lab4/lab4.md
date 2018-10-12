@@ -2,13 +2,16 @@
 
 1. Profile simul.py
 
+```
 $ python -m cProfile simul.py
 $ python -m cProfile -s tottime simul.py
 $ python -m cProfile -o prof.out simul.py
+```
 
 
 2. You can also use cProfile within your code to profile just certain pieces:
 
+```python
     from simul import benchmark
     import cProfile
 
@@ -17,6 +20,7 @@ $ python -m cProfile -o prof.out simul.py
     benchmark()
     pr.disable()
     pr.print_stats()
+```
 
 Pick one of the programs you wrote in previous labs.  What are the hotspots?  If you have program of your own, run the profiler on it.
 
