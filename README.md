@@ -74,7 +74,7 @@ Dr. Lumsdaine also has contributed important software artifacts to the research 
 - Luke Gibson, Chemical Engineering Ph.D. Student
 - Andrew Wildman, Chemistry Ph.D. Student
 - Sarah Alamdari, Chemical Engineering Ph.D. Student
-- Aakash Sur, Biomedical Informatics and Medical Health Ph.D. Student
+- Aakash Sur, Biomedical Informatics Ph.D. Student
 
 ## Acknowledgements
 - **[CEI](https://www.cei.washington.edu/)** and **[DIRECT](http://depts.washington.edu/uwdirect/)**
