@@ -52,8 +52,8 @@ In this workshop, we will cover general parallelization schemes and how they can
 
 ### John Feo
 <div>
-    <p style="float: left; padding: 0 10px;"><img src="./images/Feo_John-2.jpg" height=200></p>
-    <p>Dr. John Feo is the director of the Northwest Institute for Advanced Computing, a joint research institute of the Pacific Northwest National Laboratory and University of Washington. He leads several large Department of Defense and Department of Energy research projects in discovering patterns of activities in social networks, cyber systems, critical infrastructures, and transportation.
+    <p><img src="./images/Feo_John-2.jpg" height=200 style="float: left; padding: 0 10px;">
+    Dr. John Feo is the director of the Northwest Institute for Advanced Computing, a joint research institute of the Pacific Northwest National Laboratory and University of Washington. He leads several large Department of Defense and Department of Energy research projects in discovering patterns of activities in social networks, cyber systems, critical infrastructures, and transportation.
     <br><br>
 The projects are developing scalable data analytic methods, and high-performance, multithreaded runtime systems for conventional and emerging computer systems. Dr. Feo received his Ph.D. in computer science from The University of Texas at Austin. He began his career at Lawrence Livermore National Laboratory where he managed the Computer Science Group and was the principal investigator of the Sisal Language Project.
 <br><br>
@@ -62,8 +62,8 @@ Dr. Feo then joined Tera Computer Company (now Cray Inc) where he was a principa
 
 ### Andrew Lumsdaine
 <div>
-    <p style="float: left; padding: 0 10px;"><img src="./images/Lumsdaine_Andrew.jpg" height=200></p>
-    <p>Dr. Andrew Lumsdaine is Chief Scientist at the Northwest Institute for Advanced Computing (NIAC), an Affiliate Professor in the Paul G. Allen School of Computer Science and Engineering, and also a Laboratory Fellow at Pacific Northwest National Laboratory. Dr. Lumsdaine is an internationally recognized expert in the area of high-performance computing (HPC) who has made important contributions in many of the constitutive areas of HPC. In particular, he has contributed in the areas of HPC systems, programming languages, software libraries, and performance modeling.
+    <p><img src="./images/Lumsdaine_Andrew.jpg" height=200 style="float: left; padding: 0 10px;">
+    Dr. Andrew Lumsdaine is Chief Scientist at the Northwest Institute for Advanced Computing (NIAC), an Affiliate Professor in the Paul G. Allen School of Computer Science and Engineering, and also a Laboratory Fellow at Pacific Northwest National Laboratory. Dr. Lumsdaine is an internationally recognized expert in the area of high-performance computing (HPC) who has made important contributions in many of the constitutive areas of HPC. In particular, he has contributed in the areas of HPC systems, programming languages, software libraries, and performance modeling.
 <br><br>
 His work in HPC has been motivated by data-driven problems (large-scale graph analytics), as well as more traditional computational science problems. In addition, outside of the realm of HPC, he has done seminal work in the area of computational photography and plenoptic cameras. In his career, he has published more than 200 articles in top journals and conferences and holds 15 patents.
 <br><br>
